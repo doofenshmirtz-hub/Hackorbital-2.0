@@ -1,0 +1,1 @@
+comment on column public.teams.name is 'Team display name';
